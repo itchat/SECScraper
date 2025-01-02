@@ -1,4 +1,4 @@
-# SEC Press Release Scraper
+# Summer Intern - SEC Press Release Scraper
 
 A Python web scraper for collecting and extracting press releases from the U.S. Securities and Exchange Commission (SEC). This project can collect all press releases from 1977 to 2011 and save them in a structured CSV format.
 
